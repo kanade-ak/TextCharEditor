@@ -1096,7 +1096,7 @@ static void* filter_items[] = { &item_data, &item_reset, nullptr };
 static FILTER_PLUGIN_TABLE filter_table = {
     FILTER_PLUGIN_TABLE::FLAG_VIDEO,     // flag
     EFFECT_NAME,                         // name
-    nullptr, // label
+    L"文字位置調整", // label
     L"文字位置調整 ver1.0 (TextCharEditor)", // information
     filter_items,                        // items
     proc_video,                          // func_proc_video
