@@ -5,12 +5,13 @@
 ## 使い方
 
 1. `TextCharEditor.aux2` をインストール
+   - https://github.com/kanade-ak/TextCharEditor/releases/tag/v2.0 からTextCharEditor.aux2をDLしてください
    - aviutl2 のプレビュー画面へ DLL をドラッグ＆ドロップ、または
      `data\Plugin` フォルダへコピーして起動
-2. テキストオブジェクトを作成し、テキストの設定で **「個別オブジェクト」をON**
-3. 同じテキストオブジェクトにフィルタ効果 **「文字位置調整」を追加**
-4. 「TextCharEditorWindow」を開く(表示 → TextCharEditorWindow)
-5. 各文字を操作
+3. テキストオブジェクトを作成し、テキストの設定で **「個別オブジェクト」をON**
+4. 同じテキストオブジェクトにフィルタ効果 **「文字位置調整」を追加**
+5. 「TextCharEditorWindow」を開く(表示 → TextCharEditorWindow)
+6. 各文字を操作
    - **空白をドラッグ / Ctrl+ホイール** : キャンバス移動 / ズーム
    - **ホイール** : 文字の拡大縮小
    - **上の丸印をドラッグ** : 回転
